@@ -50,3 +50,4 @@ ecpay.com.tw###popupOverlay
 kkren.com.tw###inspire > div.application--wrap:last-child > main.v-content > div.v-content__wrap > div.root > div.banner:nth-child(3) > div.layout.mainPanel.bannerContent.align-center:last-child > div.loginFormWrap:last-child > div.lockWrap:last-child
 mobile01.com###idle_content
 mobile01.com###fancybox-container-1
+@@||rabbitssc.synology.me^$important,document
