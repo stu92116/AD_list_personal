@@ -7,5 +7,4 @@ AD list for Adguard
 
 
 #### FilterList
-
-* [Subscribe](adguard:subscribe?location=https://raw.githubusercontent.com/stu92116/AD_list_personal/master/adguard_user_filter.txt) *from github.com*
+* [Subscribe](https://raw.githubusercontent.com/stu92116/AD_list_personal/master/adguard_user_filter.txt) *from github.com*
